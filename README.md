@@ -136,5 +136,5 @@ Despite the unconventional mix of components, the system has remained stable and
 
 ## 📸 Screenshots
 
-System information screenshots are stored in the `/images` directory.
+System information screenshots are stored here https://github.com/jsknill/custom-pc-build-windows7-to-10-PRO/blob/main/sys-info-capture1.png
 
